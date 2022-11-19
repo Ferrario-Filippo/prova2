@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 File 2, fbuigahofuagiohilknajkhvyiguhiofawòjkjfa
+=======
+File 2
+fdshuiofsjiij
+>>>>>>> 849f86c6ed23a403bf5aaee7ef8602bb47c99020
